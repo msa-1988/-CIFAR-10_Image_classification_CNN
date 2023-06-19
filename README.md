@@ -26,4 +26,12 @@ To further expand my exploration of image classification, I also implemented the
 
 Conclusion:
 
-Through this GitHub repository, I showcase my expertise in CNN-based image classification by presenting the design, training, and evaluation of custom models on the CIFAR-10 dataset. Additionally, I highlight my proficiency in implementing a renowned model like AlexNet. I believe this project demonstrates my passion for deep learning, computer vision, and my ability to tackle challenging classification tasks.
+In conclusion, throughout this project, I have designed and trained multiple CNN models for image classification on the CIFAR10 dataset. While the achieved accuracy of around 75% may not be comparable to the state-of-the-art performance, I am satisfied with the progress made and the experience gained in all the steps of designing, training, and evaluating CNN models.
+
+Working on this project has provided me with valuable insights into the intricacies of CNN architecture, data preprocessing, model training, and evaluation. It has also highlighted the importance of hyperparameter tuning and experimentation to improve model performance.
+
+Although the current results may not be groundbreaking, I am motivated to continue exploring and developing more advanced CNN models in the future. I believe that with further research, fine-tuning, and potentially incorporating state-of-the-art techniques, I can achieve higher accuracy and tackle more complex image classification tasks.
+
+This colab notebook represents a significant milestone in my journey, showcasing my ability to work with CNNs and demonstrating my dedication to learning and improving in the field of deep learning. I am excited to continue my exploration of CNNs and pursue further advancements in the domain.
+
+Good luck to anyone reviewing this notebook, and thank you for the opportunity to showcase my work!
